@@ -54,7 +54,7 @@
 .headsan1>li{
     list-style: none;
     color: black;
-     margin-left: 20px;
+    margin-left: 20px;
 }
 
 .head li:hover .headsan1{
@@ -185,463 +185,125 @@
     font-size: 20px;
     color: black;
 }
-
-.giuabody1{
-    height: 690px;
-    width: 100%;
-    background-color: #F7F2ED;
-    display: flex;
-}
-
-.giuabody1 .textgiuabody{
-    height: 380px;
-    width: 618px;
-    margin-left: auto;
-}
-
-.giuabody1 .textgiuabody h4{
-    color: #eb7700;
-    font-size: 14px;
-    margin-bottom: 20px;
-}
-
-.giuabody1 .textgiuabody h2{
-    font-size: 60px;
-    color: rgb(62, 81, 106);
-    width: 618px;
-    line-height: 80px;
-    margin-bottom: 20px;
-}
-
-.giuabody1 .textgiuabody p{
-    font-size: 15px;
-    color: rgb(138, 139, 142);
-    line-height: 25px;
-    margin-bottom: 20px;
-}
-
-.giuabody1 .textgiuabody li{
-    display: inline;
-    font-size: 14px;
-}
-
-.giuabody1 .textgiuabody>li>a{
-    background-color: #rgba(0,0,0,0);
-    color: #000;
-    display: inline-block;
-    height: 24px;
-    line-height: 24px;
-    min-width: 132px;
-    text-decoration: none;
-    transition: 0.3s background-color;
-    padding: 8px 15px 8px 15px;
-    border: 1px solid;
-    margin-top: 30px;
-}
-
-.giuabody1 .textgiuabody>li>a:hover{
-    background-color: #000;
-    color: #fff;
-}
-
-.giuabody2{
-    margin-top:35px;
-    height: 168px;
-    width: 100%;
-}
-
-.khoilongiuabd2{
-    margin-left: 115px;
-    width: 1290px;
-    height: 168px;
-}
-
-.khoichinhgiuabd2{
-    height: 138px;
-    width: 1260px;
-    padding: 15px;
-    display: flex;
-}
-
-.giuabody3{
-    margin-top: 30px;
-    height: 490px;
-    width: 100%;
-}
-
-.giuabody3 ul{
-    display: flex;
-    margin-left: 130px;
-}
-
-.giuabody3 ul li{
-    list-style: none;
-}
-
-.giuabody3 ul li div{
-    display: block;
-    height: 460px;
-    width: 400px;
-}
-
-.giuabody3 ul li a img{
-    width: 400px;
-    height: 460px;
-    transition-duration: 0.5s;
-    position: initial;
-}
-
-.giuabody3 ul li {
-    width: 400px;
-    height: 460px;
-    overflow: hidden;
-    padding: 15px;
-}
-
-.giuabody3 ul li div img:hover {
-    transform: scale(1.1);
-}
-
-.giuabody3 .divgiuabody3 .chudivgiuabody3{
-    position: absolute;
-    padding: 40px;
-    height: 380px;
-    width: 240px;
-    top:1110px;
-}
-
-.giuabody3 .divgiuabody3 .chudivgiuabody3 h4{
-    font-size: 14px;
-    margin-bottom: 15px;
-}
-
-.giuabody3 .divgiuabody3 .chudivgiuabody3 h2{
-    font-size: 30px;
-    margin-bottom: 20px;
-    font-weight: 500;
-    line-height: 36px;
-    width: 240px;
-}
-
-.giuabody3 .divgiuabody3 .chudivgiuabody3 a{
-    font-size: 15px;
-    color: black;
-    text-decoration: none;
-}
-
-.giuabody3 .divgiuabody3 .chudivgiuabody3 p{
-    height: 58px;
-    width: 260px;
-    font-size: 14px;
-    color: black;
-    line-height: 21px;
-    font-family: sans-serif;
-    padding-top: 30px;
-    margin-top: 140px;
-}
-
-.giuabody4{
-    height:1125px;
-    width: 100%;
-    margin-top: 30px;
-    background-color: #eb7700;
-}
-
-.giuabody4 .tieudegiuabody4 h3{
-    margin-bottom: 8px;
-    font-size: 28px;
-}
-
-.giuabody4 .tieudegiuabody4 {
+.top {
     text-align: center;
-}
+    width: 100%;
+    height: 391px;
+    background-image: url("imgs/noi that1.jpg");
 
-.giuabody4 .tieudegiuabody4 p{
-    font-size: 16px;
-    color: rgb(138, 139, 142);
-    line-height: 24px;
 }
+.top .dong1 {
+    box-sizing:border-box;
+    font-family:Jost, sans-serif;
+    font-size:14px;
+    font-weight: 600 ;
+    color: rgb(255, 255, 255);
 
-.giuabody5 {
-    height: 620px;
-    box-sizing: border-box;
+
 }
-
-.giuabody5 img{
-    padding: 15px;
-    text-align: center;
-    margin-left: 115px;
-}
-
-.giuabody5 .tieudegiuabody5 {
-    width: 570px;
-    height: 306px;
+.dong{
+    margin-top: 70px;
     position: absolute;
-    padding: 60px;
-    top: 2756px;
-    left: 131px;
+    text-align: center;
+    left: 380px;
 }
-
-.giuabody5 .tieudegiuabody5 h4{
-    font-size: 14px;
-    color: rgb(0, 0, 0);
-    font-weight: 600;
-    line-height: 17px;
-    margin-bottom: 20px;
-}
-
-.giuabody5 .tieudegiuabody5 h2{
-    font-size: 40px;
-    font-weight: 700;
-    line-height: 48px;
-    margin-bottom: 16px;
+.top .dong2{
     font-family: Jost, sans-serif;
-}
-
-.giuabody5 .tieudegiuabody5 p{
-    color: rgb(138, 139, 142);
-    font-size: 17px;
+    font-size :80px;
+    color:rgb(255, 255, 255);
+    line-height: 96px;
     font-weight: 400;
-    line-height: 27px;
-    margin-bottom: 48px;
 }
-
-.giuabody5 .tieudegiuabody5 a{
-    text-decoration: none;
-    color: black;
+.top .dong3{
+    font-family: Jost, sans-serif;
+    color:rgb(255, 255, 255);
+    font-size :16px;
+    line-height :24px;
 }
-
-.giuabody5 .tieudegiuabody5 .circle1,.circle2{
-    height: 40px;
-    width: 40px;
-    background-color: rgb(235, 119, 0);
-    border-radius: 100%;
-    text-align: center;
-    font-size: 20px;
-    line-height: 40px;
-}
-
-.giuabody5 .tieudegiuabody5 .circle1,.circle2>a>.fa-solid_fa-plus{
-    color: white;
-}
-
-.giuabody5 .tieudegiuabody5 .circle1{
-    position: absolute;
-    top: 335px;
-    left: 725px;
-}
-.giuabody5 .tieudegiuabody5 .circle2{
-    position: absolute;
-    top: 200px;
-    left: 930px;
-}
-
-.giuabody6 {
+.mid {
     width: 100%;
-    height: 175px;
-    margin-top: 30px;
+    height: 597px;
+    margin-top: 20px;
 }
+.mid .khoimid1 {
+    width: 442px;
+    height: 556px;
+    padding:15px 81px 15px 15px ;
 
-.giuabody6 .phantugiuabody6 {
-    width: 1250px;
-    height: 175px;
+}
+.mid .khoimid2{
+    width: 611px;
+    height: 547px;
+
+}
+.khoimid2{
+    width: 611px;
+    height: 474px;
+    padding: 50px 60px 50px 60px;
+    border: 1px;
+
+}
+.mid {
     display: flex;
-    margin-left: 260px;
 }
-
-.giuabody6 .phantugiuabody6 .tieude1ptugiuabody6{
-    height: 145px;
-    width: 600px;
-}
-
-.giuabody6 .phantugiuabody6 .tieude2ptugiuabody6{
-    height: 145px;
-    width: 350px;
-}
-
-.giuabody6 .phantugiuabody6 .tieude1ptugiuabody6 h3{
-    font-size: 18px;
-    color:  rgb(235, 119, 0);
-    margin-bottom: 14px;
-    font-weight: 400;
-    line-height: 21px;
-}
-
-.giuabody6 .phantugiuabody6 .tieude1ptugiuabody6 h2{
-    font-size: 26px;
-    color: rgb(0, 0, 0);
-    margin-bottom: 14px;
-    line-height: 31px;
+.khoi1mid1 {
+    color :rgb(0, 0, 0);
+    font-family :Jost, sans-serif;
+    font-size :28px;
     font-weight: 600;
 }
-
-.giuabody6 .phantugiuabody6 .tieude1ptugiuabody6 p{
-    font-size: 16px;
-    color: rgb(138, 139, 142);
-    font-weight: 400px;
-    line-height: 24px;
-    margin-bottom: 14px;
+.khoi1mid2 {
+    color :rgb(138, 139, 142);
+    font-size :16px;
+    font-weight: 400;
+    line-height :24px;
+    font-family:Jost, sans-serif;
 }
-
-.giuabody6 .phantugiuabody6 .tieude2ptugiuabody6{
-    margin-left: 20px;
-    margin-top: 35px;
-}
-
-.giuabody6 .phantugiuabody6 .tieude2ptugiuabody6 div{
-    font-size: 16px;
-    text-decoration: solid 50px;
-
-}
-
-.giuabody6 .phantugiuabody6 .tieude2ptugiuabody6 hr{
-    color: rgb(229, 229, 229);
-    margin:20px 0px 15px 0px;
-    height: 1px;
-    width: 180px;
-}
-
-.giuabody6 .phantugiuabody6 .tieude2ptugiuabody6 a{
-    margin-top: 30px;
-    color: rgb(0, 0, 0);
-    font-size: 15px;
-    line-height: 22px;
-    text-decoration: none;
-}
-
-.giuabody7{
-    margin-top: 15px;
-    height: 490px;
-    margin-left: 70px;
-}
-
-.giuabody7 ul{
-    display: flex;
-    list-style: none;
-    width: 290px;
-}
-
-.giuabody7 ul li{
-    margin-left: 30px;
-}
-
-.giuabody7 ul li img{
-    transition-duration: 0.5s;
-    padding: 15px;
-    width: 615px;
-    height: 460px;
-}
-
-.giuabody7 ul li img:hover{
-    transform: scale(1.1);
-}
-
-.giuabody7 .tieudeimg1giuabody7{
-    height: 360px;
-    width: 330px;
-    padding: 50px;
-    position: absolute;
-    top:3596px;
-    left: 145px;
-}
-
-.giuabody7 .tieudeimg1giuabody7 h4{
-    color: rgb(0, 0, 0);
+.khoi2mid1 h5{
+    color: rgb(187, 187, 187);
+    font-family Jost, sans-serif;
     font-size: 14px;
-    line-height: 14px;
-    font-weight: 600px;
-    letter-spacing: 2px;
-    margin-bottom: 15px;
-}
-
-.giuabody7 .tieudeimg1giuabody7 h2{
-    margin-bottom: 20px;
-    font-size: 40px;
-    line-height: 48px;
-    font-weight: 500;
-    color: rbg(0, 0, 0);
-}
-
-.giuabody7 .tieudeimg1giuabody7 a{
-    text-decoration: none;
-    color: black;
-    font-size: 15px;
-    font-weight: 500;
-    height: 27px;
-    line-height: 22px;
-}
-
-.giuabody7 .tieudeimg2giuabody7{
-    height: 360px;
-    width: 330px;
-    padding: 50px;
-    position: absolute;
-    top:3596px;
-    left:835px;
-}
-
-.giuabody7 .tieudeimg2giuabody7 h4{
-    color: rgb(0, 0, 0);
-    font-size: 14px;
-    line-height: 14px;
-    font-weight: 600px;
-    letter-spacing: 2px;
-    margin-bottom: 15px;
-}
-
-.giuabody7 .tieudeimg2giuabody7 h2{
-    margin-bottom: 20px;
-    font-size: 40px;
-    line-height: 48px;
-    font-weight: 500;
-    color: rbg(0, 0, 0);
-}
-
-.giuabody7 .tieudeimg2giuabody7 a{
-    text-decoration: none;
-    color: black;
-    font-size: 15px;
-    font-weight: 500;
-    height: 27px;
-    line-height: 22px;
-}
-
-.giuabody8{
-    width: 100%;
-    height: 460px;
-    margin-top: 80px;
-}
-
-.giuabody8 .tieudegiuabody8{
-    text-align: center;
-    height: 66px;
-    width: 1260px;
-    padding: 15px;
-    margin-left: 130px;
-}
-
-.giuabody8 .tieudegiuabody8 h3{
-    font-size: 28px;
     font-weight: 600;
-    text-align: center;
-    letter-spacing: 2px;
-    margin-bottom: 12px;
+    line-height :21px;
 }
-
-.giuabody8 .tieudegiuabody8 p{
-    font-size: 16px;
-    font-weight: 400px;
-    color: rgb(138, 139, 142);
+.khoi2mid1  p{
+    color :rgb(0, 0, 0);
+    font-family: Jost, sans-serif;
+    font-weight :500;
+    font-size :14px;
+    margin-bottom :3px;
 }
-
-.giuabody8 .cmtgiuabody8{
-    height: 344px;
-    width: 1290px;
-    background-color: black;
-    padding: 15px;
-    margin-left: 115px;
+.khoi3mid1 h5{
+    color: rgb(187, 187, 187);
+    font-family Jost, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height :21px;
 }
+.khoi4mid1 h5{
+    color: rgb(187, 187, 187);
+    font-family Jost, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    line-height :21px;
+}
+.khoimid2{
+    padding: 0px 0px 0px 0px;
+}
+.khoimid2 h3{
+    font-size: 36px;
+    font-weight: 600;
+    color: rgb(0,0,0);
+    line-height: 43px;
 
+}
+.khoimid2 p{
+    color :rgb(138, 139, 142);
+    font-size :16px;
+    font-weight: 400;
+    line-height :24px;
+    font-family:Jost, sans-serif;
+}
 .end{
     height: 168px;
     width: 100%;
