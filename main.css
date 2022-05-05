@@ -256,11 +256,47 @@
     height: 168px;
 }
 
-.khoichinhgiuabd2{
+.khoichinhgiuabd2 {
     height: 138px;
     width: 1260px;
     padding: 15px;
     display: flex;
+    overflow-x: auto;
+    overflow-y: hidden;
+}
+
+.giuabody2 .khoilongiuabd2 .khoichinhgiuabd2 .khoinhogiuabd2 {
+    width: 185px;
+    height: 138px;
+    margin-right: 30px;
+    text-align: center;
+}
+
+.giuabody2 .khoilongiuabd2 .khoichinhgiuabd2 .khoinhogiuabd2 .anhkhoichinhgiuabd2{
+    width: 185px;
+    height: 99px;
+    margin-bottom: 5px;
+}
+
+.giuabody2 .khoilongiuabd2 .khoichinhgiuabd2 .khoinhogiuabd2 .anhkhoichinhgiuabd2 img{
+    height: 66px;
+    width: 66px;
+}
+
+.giuabody2 .khoilongiuabd2 .khoichinhgiuabd2 .khoinhogiuabd2 .tieudekhoichinhgiuabd2 a{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    margin-bottom: 5px;
+}
+
+.giuabody2 .khoilongiuabd2 .khoichinhgiuabd2 .khoinhogiuabd2 .tieudekhoichinhgiuabd2 p{
+    font-size: 12px;
+    line-height: 18px;
+    color: rgb(138, 139, 142);
+
 }
 
 .giuabody3{
@@ -307,7 +343,7 @@
     padding: 40px;
     height: 380px;
     width: 240px;
-    top:1110px;
+    top:1070px;
 }
 
 .giuabody3 .divgiuabody3 .chudivgiuabody3 h4{
@@ -344,7 +380,11 @@
     height:1125px;
     width: 100%;
     margin-top: 30px;
-    background-color: #eb7700;
+}
+
+.giuabody4 .tieudegiuabody4{
+    margin-bottom: 20px;
+    height: 96px;
 }
 
 .giuabody4 .tieudegiuabody4 h3{
@@ -360,6 +400,48 @@
     font-size: 16px;
     color: rgb(138, 139, 142);
     line-height: 24px;
+}
+
+.giuabody4 .dongsanpham1{
+    margin-left: 115px;
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.giuabody4 .dongsanpham1 .sanphamgiuabd4{
+    width: 293px;
+    height: 450px;
+    padding: 0px 15px 0px 15px;
+}
+
+.giuabody4 .dongsanpham1 .sanphamgiuabd4 .anhsanpham img{
+    width: 293px;
+    height: 333px;
+}
+
+.giuabody4 .dongsanpham1 .sanphamgiuabd4 .tengiasanphamgiuabd4{
+    margin-top: 20px;
+}
+
+.giuabody4 .dongsanpham1 .sanphamgiuabd4 .tengiasanphamgiuabd4 a {
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 25px;
+    text-decoration: none;
+    color: black;
+}
+
+.giuabody4 .dongsanpham1 .sanphamgiuabd4 .tengiasanphamgiuabd4 h4 {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 25px;
+    margin-top: 20px;
+}
+
+.giuabody4 .dongsanpham1 .sanphamgiuabd4 .tengiasanphamgiuabd4 h4 del{
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(138, 139, 142);
 }
 
 .giuabody5 {
@@ -427,12 +509,12 @@
 
 .giuabody5 .tieudegiuabody5 .circle1{
     position: absolute;
-    top: 335px;
+    top: 295px;
     left: 725px;
 }
 .giuabody5 .tieudegiuabody5 .circle2{
     position: absolute;
-    top: 200px;
+    top: 160px;
     left: 930px;
 }
 
@@ -637,15 +719,65 @@
 .giuabody8 .cmtgiuabody8{
     height: 344px;
     width: 1290px;
-    background-color: black;
     padding: 15px;
     margin-left: 115px;
+    display: flex;
+    margin-top: 50px;
+}
+
+.giuabody8 .cmtgiuabody8 .ptucmtgiuabody8{
+    width: 400px;
+    height: 223px;
+    margin-right: 30px;
+    text-align: center;
+    border: 1px solid rgb(229, 229, 229);
+}
+
+.giuabody8 .cmtgiuabody8 .ptucmtgiuabody8 .anhptucmtgiuabd8{
+    height: 40px;
+    width: 80% ;
+    text-align: center;
+}
+
+.giuabody8 .cmtgiuabody8 .ptucmtgiuabody8 .anhptucmtgiuabd8 img{
+    border-radius: 100%;
+    height: 78px;
+    width: 78px;
+    position: absolute;
+    top:4230px;
+}
+
+.giuabody8 .cmtgiuabody8 .ptucmtgiuabody8 .tieudeptucmtgiuabd8{
+    width: 321px;
+    height: 127px;
+    padding: 15px 36px;
+}
+
+.giuabody8 .cmtgiuabody8 .ptucmtgiuabody8 .tieudeptucmtgiuabd8 h4{
+    font-size: 18px;
+    line-height: 21px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.giuabody8 .cmtgiuabody8 .ptucmtgiuabody8 .tieudeptucmtgiuabd8 h5{
+    color: rgb(249, 217, 0) ;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 5px;
+    margin-bottom: 15px;
+}
+
+.giuabody8 .cmtgiuabody8 .ptucmtgiuabody8 .tieudeptucmtgiuabd8 p{
+    color: rgb(138, 139, 142);
+    font-size: 14px;
+    line-height: 22.5px;
 }
 
 .end{
     height: 168px;
     width: 100%;
-    margin-top:150px;
+    margin-top:50px;
 }
 
 .end .ptuend{
@@ -829,6 +961,7 @@ input[type=email] {
     font-size: 15px;
     color: rgb(138, 139, 142);
     outline-style: none;
+
 }
 
 .tieudekhoinho2be1{
