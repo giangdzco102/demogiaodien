@@ -410,7 +410,7 @@
 
 .giuabody4 .dongsanpham1 .sanphamgiuabd4{
     width: 293px;
-    height: 450px;
+    height: 480px;
     padding: 0px 15px 0px 15px;
 }
 
@@ -420,10 +420,10 @@
 }
 
 .giuabody4 .dongsanpham1 .sanphamgiuabd4 .tengiasanphamgiuabd4{
-    margin-top: 20px;
+    margin-top: 15px;
 }
 
-.giuabody4 .dongsanpham1 .sanphamgiuabd4 .tengiasanphamgiuabd4 a {
+.giuabody4 .dongsanpham1 .sanphamgiuabd4 .tengiasanphamgiuabd4 .tengiasanphamgiuabd4ten a {
     font-size: 18px;
     font-weight: 600;
     line-height: 25px;
@@ -435,13 +435,32 @@
     font-size: 16px;
     font-weight: 600;
     line-height: 25px;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .giuabody4 .dongsanpham1 .sanphamgiuabd4 .tengiasanphamgiuabd4 h4 del{
     font-size: 14px;
     font-weight: 600;
     color: rgb(138, 139, 142);
+}
+
+.giuabody4 .dongsanpham1 .sanphamgiuabd4 .tengiasanphamgiuabd4>a{
+    background-color: #rgba(0,0,0,0);
+    color: #000;
+    display: inline-block;
+    height: 24px;
+    line-height: 24px;
+    min-width: 80px;
+    text-decoration: none;
+    transition: 0.5s background-color;
+    padding: 8px 15px 8px 15px;
+    border: 1px solid;
+    font-weight: 600;
+}
+
+.giuabody4 .dongsanpham1 .sanphamgiuabd4 .tengiasanphamgiuabd4>a:hover{
+    background-color: orange;
+    color: #fff;
 }
 
 .giuabody5 {
