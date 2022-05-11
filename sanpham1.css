@@ -350,6 +350,16 @@
     font-weight: 400;
 }
 
+.iconsanpham{
+    display: flex;
+    margin-top: 20px;
+    font-size: 30px;
+}
+
+.iconsanpham .iconfb{
+    margin-right: 10px;
+}
+
 .khoidesscription{
     margin-left: 115px;
     width: 1290px;
